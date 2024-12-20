@@ -5,3 +5,6 @@ xgboost
 numpy
 scikit-learn
 mlflow
+streamlit
+requests
+pandas
